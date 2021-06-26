@@ -1,0 +1,20 @@
+12;Viena
+50;Andorra
+60;Angola
+130;Bahamas
+30;Afganistán
+90;Armenia
+170;Belice
+110;Austria
+40;Albania
+70;Argelia
+150;Barbados
+160;Bélgica
+80;Argentina
+10;Francia
+20;Republica Checa
+456;Alemania
+120;Azerbaiyán
+10;Polonia
+100;Australia
+140;Bangladés
