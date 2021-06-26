@@ -1,2 +1,2 @@
 # TrainApp
-Aplicacion de Trenes que utiliza estructuras de datos
+Sistema de Control de Trenes en C++
